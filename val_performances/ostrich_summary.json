@@ -1,0 +1,8 @@
+{
+    "per_exact_match": 14.550977623753903,
+    "avg_character_levenshtein_similarity": 0.9796720375451161,
+    "avg_word_error_rate": 0.13031758774754937,
+    "per_exact_match_improvement": null,
+    "avg_character_levenshtein_similarity_improvement": null,
+    "avg_word_error_rate_reduction": null
+}
